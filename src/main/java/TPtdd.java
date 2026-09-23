@@ -1,3 +1,7 @@
+package org.example;
+
 public class TPtdd {
-    System.out.println("Hola");
+    public static void main(String[] args) {
+        System.out.println("Hola");
+    }
 }
